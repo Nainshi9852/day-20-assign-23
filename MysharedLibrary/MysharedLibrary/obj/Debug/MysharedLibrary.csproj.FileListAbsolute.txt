@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-20\MysharedLibrary\MysharedLibrary\bin\Debug\MysharedLibrary.dll
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-20\MysharedLibrary\MysharedLibrary\bin\Debug\MysharedLibrary.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-20\MysharedLibrary\MysharedLibrary\obj\Debug\MysharedLibrary.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-20\MysharedLibrary\MysharedLibrary\obj\Debug\MysharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-20\MysharedLibrary\MysharedLibrary\obj\Debug\MysharedLibrary.dll
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-20\MysharedLibrary\MysharedLibrary\obj\Debug\MysharedLibrary.pdb
